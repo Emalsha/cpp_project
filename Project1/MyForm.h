@@ -101,7 +101,7 @@ namespace Project1 {
 			// 
 			// btn
 			// 
-			this->btn->Location = System::Drawing::Point(45, 109);
+			this->btn->Location = System::Drawing::Point(45, 115);
 			this->btn->Name = L"btn";
 			this->btn->Size = System::Drawing::Size(131, 23);
 			this->btn->TabIndex = 4;
